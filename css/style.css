@@ -38,7 +38,7 @@ a {
   display: flex;
   justify-content: center;
   justify-content: center;
-  text-decoration-line: underline;
+  text-decoration-line: none;
   font-size: 100px;
   font-weight: lighter;
   color: rgb(253, 253, 253);

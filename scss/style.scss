@@ -33,7 +33,7 @@ left: 100px;
     display: flex;
     justify-content: center;
     justify-content: center;
-    text-decoration-line: underline;
+    text-decoration-line: none;
     font-size: 100px;
     font-weight: lighter;
     color: rgb(253, 253, 253);
@@ -163,7 +163,7 @@ background-color: $base-color;
 .fotolibro_titulo{
     display:flex ;
     justify-content: center;
-    text-decoration-line: underline;
+    text-decoration-line: none;
     margin-top: 100px;
     font-size: 50px;
 }
